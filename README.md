@@ -23,23 +23,7 @@
     <h2>About Me</h2>
     <p>Hi! I'm Gustavo Bertuzzi, a Software Developer passionate about building scalable applications and solving real-world problems through technology. Currently pursuing an Associate Degree in Systems Analysis and Development at IFPR.</p>
   </section>
-
-  <section id="projects" class="section">
-    <h2>Projects</h2>
-    <div class="project">
-      <h3>Inventory Management API</h3>
-      <p>Developed a RESTful API for managing inventory data, improving query performance by 30%.</p>
-      <p><strong>Technologies:</strong> Java, Spring Boot, PostgreSQL</p>
-      <p><a href="#">GitHub Repository</a></p>
-    </div>
-    <div class="project">
-      <h3>Customer Relationship Management System</h3>
-      <p>Designed a CRM system for a mechanic workshop, implementing features for customer and service management.</p>
-      <p><strong>Technologies:</strong> Java, PostgreSQL, Spring Boot</p>
-      <p><a href="#">GitHub Repository</a></p>
-    </div>
-  </section>
-
+  
   <section id="skills" class="section">
     <h2>Skills</h2>
     <ul>
@@ -55,6 +39,23 @@
       <li>Problem Solving</li>
     </ul>
   </section>
+  
+   <section id="projects" class="section">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Inventory Management API</h3>
+      <p>Developed a RESTful API for managing inventory data, improving query performance by 30%.</p>
+      <p><strong>Technologies:</strong> Java, Spring Boot, PostgreSQL</p>
+      <p><a href="#">GitHub Repository</a></p>
+    </div>
+    <div class="project">
+      <h3>Customer Relationship Management System</h3>
+      <p>Designed a CRM system for a mechanic workshop, implementing features for customer and service management.</p>
+      <p><strong>Technologies:</strong> Java, PostgreSQL, Spring Boot</p>
+      <p><a href="#">GitHub Repository</a></p>
+    </div>
+  </section>
+
 
   <section id="contact" class="section">
     <h2>Contact</h2>
