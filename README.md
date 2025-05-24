@@ -1,26 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+  
 <head>
+</head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gustavo Bertuzzi - Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #f4f4f4; }
-    .container { width: 90%; max-width: 1200px; margin: auto; padding: 20px; background: #fff; }
-    header { background: #333; color: #fff; padding: 20px 0; text-align: center; }
-    nav { margin-top: 10px; }
-    nav a { color: #fff; margin: 0 10px; text-decoration: none; display: inline-block; padding: 5px 10px; }
-    h1, h2 { color: #333; }
-    .section { margin-bottom: 40px; }
-    .project { margin-bottom: 20px; }
-    footer { text-align: center; padding: 20px; background: #333; color: #fff; }
-
-    @media (max-width: 768px) {
-      nav a { display: block; margin: 10px 0; }
-      header { padding: 10px 0; }
-    }
-  </style>
-</head>
 <body>
 
 <header>
