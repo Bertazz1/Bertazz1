@@ -58,9 +58,8 @@
 
   <section id="contact" class="section">
     <h2>Contact</h2>
-    <p>Email: gustavobertuzzi10@gmail.com</p>
+    <p>Email: gustavobertuzziif@gmail.com</p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/gustavo-bertuzzi" target="_blank">linkedin.com/in/gustavo-bertuzzi</a></p>
-    <p>GitHub: [Add your GitHub link here]</p>
   </section>
 </div>
 
