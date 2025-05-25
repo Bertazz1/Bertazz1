@@ -44,7 +44,7 @@
     <h2>Projects</h2>
     <div class="project">
       <h3>Inventory Management API</h3>
-      <p>Developed a RESTful API for managing inventory data, improving query performance by 30%.</p>
+      <p>Developed a RESTful API for managing inventory data.</p>
       <p><strong>Technologies:</strong> Java, Spring Boot, PostgreSQL</p>
       <p><a href="https://github.com/Bertazz1/Inventory-Management-API">GitHub Repository</a></p>
     </div>
