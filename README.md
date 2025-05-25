@@ -46,14 +46,9 @@
       <h3>Inventory Management API</h3>
       <p>Developed a RESTful API for managing inventory data, improving query performance by 30%.</p>
       <p><strong>Technologies:</strong> Java, Spring Boot, PostgreSQL</p>
-      <p><a href="#">GitHub Repository</a></p>
+      <p><a href="https://github.com/Bertazz1/Inventory-Management-API">GitHub Repository</a></p>
     </div>
-    <div class="project">
-      <h3>Customer Relationship Management System</h3>
-      <p>Designed a CRM system for a mechanic workshop, implementing features for customer and service management.</p>
-      <p><strong>Technologies:</strong> Java, PostgreSQL, Spring Boot</p>
-      <p><a href="#">GitHub Repository</a></p>
-    </div>
+
   </section>
 
 
