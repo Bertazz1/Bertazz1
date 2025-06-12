@@ -28,7 +28,6 @@
     <h2>Skills</h2>
     <ul>
       <li>Java</li>
-      <li>JavaScript</li>
       <li>Spring Boot</li>
       <li>Oracle</li>
       <li>PostgreSQL</li>
