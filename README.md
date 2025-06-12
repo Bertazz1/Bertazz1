@@ -47,6 +47,13 @@
       <p><strong>Technologies:</strong> Java, Spring Boot, PostgreSQL</p>
       <p><a href="https://github.com/Bertazz1/Inventory-Management-API">GitHub Repository</a></p>
     </div>
+     
+   <div class="project">
+      <h3>Java-ChessGame</h3>
+      <p>Developed a Chess game using java and Object-Oriented Programming</p>
+      <p><strong>Technologies:</strong> Java</p>
+      <p><a href="https://github.com/Bertazz1/ChessGame">GitHub Repository</a></p>
+    </div>
 
   </section>
 
