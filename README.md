@@ -58,7 +58,7 @@
   <div class="project">
       <h3>Park-Api</h3>
       <p>Developed RESTful API for a Car Parking Service</p>
-      <p><strong>Technologies:</strong> Java, Spring Boot, PostgreSQL</p>
+      <p><strong>Technologies:</strong> Java, Spring Boot 3, Spring Security, Spring Data JPA, JWT, Swagger, Testes end2end, DTO, PostgresSql</p>
       <p><a href="https://github.com/Bertazz1/Park-API">GitHub Repository</a></p>
   </div>
 
